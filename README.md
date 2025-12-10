@@ -1,30 +1,45 @@
 <div style="
   width: 100%;
-  padding: 30px;
-  background: #0d1117;
-  border-radius: 12px;
+  padding: 40px 20px;
+  background: #000814;
+  border-radius: 14px;
   text-align: center;
-  color: #c9d1d9;
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #dbe4f3;
 ">
 
-  <h1 style="color: #58a6ff; font-size: 40px; margin-bottom: 10px;">
-    Nikhila Pathuri
+  <h1 style="
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #74c0fc;
+    text-shadow: 0 0 10px #74c0fc, 0 0 20px #4dabf7, 0 0 40px #228be6;
+  ">
+    ⚡ Nikhila Pathuri ⚡
   </h1>
 
-  <h3 style="color: #8b949e; margin-top: 0;">
+  <h3 style="
+    font-size: 20px;
+    margin-top: 0;
+    color: #adb5bd;
+    text-shadow: 0 0 8px #495057;
+  ">
     Senior Java Backend Engineer • Microservices • Cloud • Distributed Systems
   </h3>
 
-  <p style="font-size: 16px; margin-top: 20px;">
+  <p style="
+    font-size: 17px;
+    margin-top: 25px;
+    color: #bcd4e6;
+    text-shadow: 0 0 6px #1c7ed6;
+  ">
     <b>Java • Spring Boot • Kafka • AWS • Docker • Kubernetes • React</b>
   </p>
 
-  <p style="margin-top: 25px;">
+  <p style="margin-top: 30px;">
     <a href="https://github.com/Nikhila1808">
-      <img src="https://img.shields.io/badge/GitHub-Nikhila1808-000?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/GitHub-Nikhila1808-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/your-link-here/">
+    <a href="https://www.linkedin.com/in/your-link">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
     </a>
   </p>
