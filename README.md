@@ -9,16 +9,16 @@
 ">
 
   <h1 style="
-    font-size: 48px;
+    font-size: 50px;
     margin-bottom: 10px;
     color: #74c0fc;
-    text-shadow: 0 0 10px #74c0fc, 0 0 20px #4dabf7, 0 0 40px #228be6;
+    text-shadow: 0 0 12px #74c0fc, 0 0 22px #4dabf7, 0 0 45px #1a73e8;
   ">
     ⚡ Nikhila Pathuri ⚡
   </h1>
 
   <h3 style="
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 0;
     color: #adb5bd;
     text-shadow: 0 0 8px #495057;
@@ -35,11 +35,21 @@
     <b>Java • Spring Boot • Kafka • AWS • Docker • Kubernetes • React</b>
   </p>
 
+  <div style="margin-top: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="50px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55px" style="margin:8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55px" style="margin:8px;" />
+  </div>
+
   <p style="margin-top: 30px;">
     <a href="https://github.com/Nikhila1808">
       <img src="https://img.shields.io/badge/GitHub-Nikhila1808-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/your-link">
+    <a href="https://www.linkedin.com/in/nikpa/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
     </a>
   </p>
